@@ -1,0 +1,1024 @@
+@font-face {
+    font-family: 'AvenirNextCyrBold';
+    src: url("/Fonts/AvenirNextCyr-Bold.eot");
+    src: url("/Fonts/AvenirNextCyr-Bold.eot") format("woff"),
+    url("/Fonts/AvenirNextCyr-Bold.eot");
+url("/Fonts/AvenirNextCyr-Bold.woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+html, body, footer {
+    font-family: 'AvenirNextCyrBold', Helvetica, Arial, sans-serif;
+    max-width: 100%;
+    color: #2D3945;
+    margin: 0;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.giveinvitebutton {
+    display: none;
+}
+
+.giveinvite {
+    width: 228px;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 50px;
+    font-size: 16px;
+    color: black;
+}
+
+.carimage3 {
+    display: none;
+}
+
+.twoblockcolumn4 {
+    margin-top: -40px;
+}
+
+button {
+    background: none;
+    border: none;
+}
+.hi {
+    font-size: 11px;
+}
+
+
+#right3svg3 {
+    margin-left: -70px;
+    display: none;
+}
+.container1 {
+    color: white;
+    max-width: 100%;
+    height: 1057px;
+}
+
+.rightcolumn4 img {
+    margin-left: 30%;
+}
+
+
+.text2column4 {
+    font-size: 11px;
+}
+
+.container2 {
+    color:#2D3945;
+    max-width: 100%;
+    height: 2000px;
+}
+
+.backgroundcontainer1 {
+    height: 909px;
+}
+
+.backgroundcontainer1, .column5 {
+    background: url(BackgroundImg/background1.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.peoplesfone2 h1 {
+    font-weight: 900;
+}
+
+.leftcolumn42 {
+    display: none;
+}
+
+.textbackground1 {
+    white-space: nowrap;
+}
+
+
+
+.column4 {
+    white-space: nowrap;
+}
+
+.column1 {
+    white-space: nowrap;
+}
+
+.column7 {
+    background: url(BackgroundImg/background2.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.raffleitems1050 {
+    display: none;
+}
+
+
+
+.textbackground1 {
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+
+.text1 {
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.text1 h1 {
+    transform: rotate(-2deg);
+}
+
+.text1 h2 {
+    font-size: 54.29px;
+    transform: rotate(-2deg);
+}
+
+#right3svg2 {
+    margin-left: -40px;
+}
+
+.sweetbackground {
+    transform: rotate(-2deg);
+    display: flex;
+    text-align: center;
+    border-radius: 60px;
+    align-items: center;
+    justify-content: center;
+    width: 290px;
+    height: 50px;
+    background: white;
+    margin-left: 31%;
+}
+#carimage33 img{
+    margin-left: 11%;
+}
+
+.textsweet {
+    padding: 20px;
+}
+
+.redblock1 {
+    transform: rotate(-3deg);
+    padding: 0px 20px;
+    background: red;
+    width: 279px;
+    height: 48px;
+    margin-top: 33px;
+}
+
+
+.raffleitems {
+    margin-left: 90px;
+    margin-top: -62px;
+    max-width: 80%;
+}
+
+.redblock1 h1, .redblock2 h1 {
+    margin-top: -4px;
+}
+
+
+.redblock2 {
+    width: 223px;
+    height: 57px;
+    background: red;
+    padding: 0px 21px;
+}
+
+
+.givemoney1, .givemoney2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.givemoney1 {
+    margin-top: -40px;
+}
+
+.givemoney2 {
+    margin-top: -20px;
+}
+
+
+
+.car {
+    margin-top: 11%;
+}
+
+
+
+
+.yackvzyati {
+    text-align: center;
+    margin-top: 15%;
+    font-size: 34px;
+}
+
+.yackvzyati h1 {
+    font-weight: 900;
+    font-size: 34px;
+}
+.friendactivate h1 {
+    font-weight: 900;
+}
+
+.column1 h1, .givecar, .column8 h1 {
+    font-size: 18px;
+}
+
+.textcopy h1 {
+    font-size: 18px;
+}
+
+.column1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+.oneblock1, .twoblock1 {
+    padding: 5% 6%;
+}
+
+.threeblock1 {
+    padding: 5% 4%;
+}
+
+.threeblock1 a {
+    margin-left: -88%;
+}
+
+.threeblock11 {
+    display: none;
+}
+
+.oneblock1, .twoblock1 {
+    display: flex;
+    max-width: 450px;
+}
+.textblock1, .textblock2 {
+    margin-left: -18px;
+}
+.textblock1 {
+    max-width: 360px;
+}
+.textblock2 {
+    max-width: 360px;
+}
+.column2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carimage2 {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.backgroundforcolumn2 {
+    display: flex;
+    border-radius: 20px;
+    height: 448px;
+    width: 1052px;
+    background: rgba(124, 253, 92, 0.1);
+}
+.rightblockcolumn2 {
+    padding: 50px;
+}
+.rightblockcolumn2 h1 {
+    font-weight: 900;
+    font-size: 40px;
+}
+.watch h1{
+    font-size: 20px;
+    font-weight: 400;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 140px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -75px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+.watch a {
+    color: red;
+}
+.linkssocial img {
+    padding: 10px;
+}
+.column3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.column3 h2 {
+    font-weight: 400;
+}
+.column3 h3 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 110px;
+}
+.copycode {
+    border: medium dashed green;
+    justify-content: center;
+    display: flex;
+    width: 238px;
+    height: 47px;
+    border-radius: 5px;
+    border-color: #15394C;
+    align-items: center;
+}
+.linkscopy {
+    margin-top: 12px;
+}
+
+.linkscopy img{
+    padding: 5px;
+}
+.text1column4 {
+    text-align: initial;
+}
+.text1column4 h1 {
+    width: 100%;
+}
+.text1column4 a {
+    color: black;
+    font-size: 18px;
+}
+.text1column4 h2 {
+    font-size: 18px;
+}
+.column4 {
+    text-align: center;
+    margin-top: 145px;
+}
+.column4 h1 {
+    font-size: 34px;
+}
+.peoplesfone {
+    margin-top: 100px;
+}
+.peoplesfone2 {
+    display: none;
+}
+.oneblockcolumn4, .twoblockcolumn4, 
+.threeblockcolumn4
+ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+.fiveblockcolumn4 {
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    align-items: first;
+    padding: 38px;
+    margin-top: -20px;
+}
+#right3svg {
+    display: none;
+}
+.oneblockcolumn4 h1, .twoblockcolumn4 h1,
+.threeblockcolumn4 h1,
+.fiveblockcolumn4 h1, .forblockcolumn4 h1 {
+    font-size: 24px;
+}
+.leftcolumn44 {
+    display: flex;
+    justify-content: center;
+}
+.forblockcolumn4 {
+    display: flex;
+    justify-content: center;
+}
+.rightcolumn4and1 {
+    margin-left: 12px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.column4 h1{
+    line-height: 14px;
+}
+.column1 h1 {
+    font-weight: 900;
+    line-height: 0.5;
+    margin-top: 30px;
+}
+.cover1 img {
+    margin-left: 240px;
+}
+.cover2 img {
+    margin-left: 120px;
+}
+.rightcolumn4and12 {
+    display: none;
+    margin-left: 48px;
+}
+.oneblockcolumn4,
+.threeblockcolumn4, .forblockcolumn4 {
+    margin-top: 50px;
+}
+.leftcolumn4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.leftcolumn45 {
+    margin-left: 90px;
+    display: flex;
+    justify-content: center;
+}
+.leftcolumn41 {
+    display: flex;
+    justify-content: center;
+}
+leftcolumn4last{
+    width: 34%;
+    display: flex;
+    justify-content: center;
+}
+.leftcolumn4 h1 {
+    font-size: 34px;
+    text-align: initial;
+}
+.leftblockcolumn3 {
+    width: 23%;
+    padding: 0px 60px;
+}
+.backgroundunion {
+   width: 355px;
+   height: 230px;
+}
+.oneblockcolumn4 {
+    margin-top: 100px;
+}
+.blocktextimg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.blocktextimg h1 {
+    text-align: initial;
+}
+.laptop, .laptop2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.laptop2{
+    margin-left: 12%;
+}
+.laptop img {
+    margin-left: -11%;
+}
+.cover1, .cover2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 2px;
+}
+.cover1 {
+    width: 132.53px;
+    height: 223.31px;
+    border-radius: 6.62651px;
+}
+.cover2 {
+    height: 223.31px;
+    border-radius: 7px;
+    margin-top: -5px;
+}
+.rightcolumn4 {
+    margin-left: 0;
+    display: flex;
+    font-size: 11px;
+}
+.textleftcolumn4 h2 {
+    position: absolute;
+    text-align: initial;
+    margin-top: -11px;
+    font-size: 24px;
+}
+.backgroundunion img {
+    padding: 0px 80px;
+}
+.textleftcolumn4 {
+    z-index: 1;
+    margin-left: 25%;
+    width: 210px;
+    height: 168px;
+}
+.texth1 {
+    margin-left: -60px;
+}
+.textactivation h1 {
+    margin-left: -30px;
+}
+.text1column4 h1 {
+    margin-left: -15px;
+}
+.text2column4 h1 {
+    margin-left: -30px;
+    text-align: initial;
+}
+.forsvg {
+    margin-left: 175px;
+  }
+.forsvg img {
+    position: absolute;
+    margin-left: 30px;
+}
+.rightcolumn4 img {
+    margin-left: 5%;
+}
+.covercontent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.column5 {
+    height: 569px;
+    text-align: center;
+}
+.columns5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textincolumn5 {
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+}
+.imgpeoples {
+    margin-top: -250px;
+}
+.rightcolumn7 h1 {
+    width: 53%;
+}
+.rightcolumn7 {
+    margin-left: -140px;
+    margin-top: -380px;
+}
+.countdown-title {
+    color: #396;
+    font-weight: 100;
+    font-size: 40px;
+    margin: 40px 0px 20px;
+}
+.countdown {
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+}
+.countdown-number {
+    padding: 10px;
+    border-radius: 3px;
+    display: inline-block;
+}
+.countdown-time {
+    padding: 15px;
+    border-radius: 3px;
+    background: #D8271C;
+    display: inline-block;
+}
+.countdown-text {
+    display: block;
+    padding-top: 5px;
+    font-size: 16px;
+}
+.textincolumn5 h1 {
+    font-size: 60px;
+}
+.textincolumn5 h2 {
+    font-size: 24px;
+}
+.column7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 523px;
+    margin-top: 200px;
+}
+.textleftcolumn4 h3 {
+    position: absolute;
+    font-size: 24px;
+}
+.givecar {
+    color: white;
+    width: 243px;
+    height: 50px;
+    background: #D8271C;
+    border-radius: 50px;
+}
+.givecarbuttton :hover {
+    background: orange;
+    transform: matrix();
+    transition: 0.2s;
+}
+.raffleitems2 {
+    margin-top: -236px;
+}
+.raffleitems22 {
+    display: none;
+}
+.column8 {
+    text-align: center;
+    color: black;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+@media (max-width: 1720px) {
+    .threeblock1 a {
+        margin-left: -11%;
+    }
+}
+
+@media (max-width: 1150px) {
+    .column1 {
+        display: grid;
+    }
+   .carimage2 {
+       display: none;
+   }
+    .backgroundforcolumn2 {
+        text-align: center;
+        height: 477px;
+        width: 332px;
+    }
+    .linkssocial img {
+        max-width: 13%;
+    }
+    .rightblockcolumn2 h1 {
+        font-size: 24px;
+    }
+    .carimage3 {
+        display: block;
+        margin-top: 33px;
+    }
+    .watch h1 {
+        font-size: 16px;
+    }
+    .rightblockcolumn2 {
+        padding: 28px;
+    }
+    .peoplesfone {
+        display: none;
+    }
+    .peoplesfone2 {
+        display: block;
+        margin-top: 20%;
+    }
+    .column3 {
+        text-align: center;
+    }
+    .leftblockcolumn3 h2 {
+        font-size: 16px;
+        padding: 0px 50px;
+    }
+    .textcopy h1 {
+        font-size: 18px;
+    }
+    .copycode {
+        width: 100%;
+        height: 45px;
+    }
+    .oneblockcolumn4, .twoblockcolumn4, .threeblockcolumn4,
+    .forblockcolumn4,.fiveblockcolumn4
+    {
+        display: grid;
+    }
+    .rightcolumn4 {
+        margin-left: 0;
+    }
+    .backgroundunion img {
+        padding: 0;
+    }
+    .yackvzyati {
+        margin-top: 15%;
+    }
+    .threeblock1 {
+        display: none;
+    }
+    .threeblock11 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .leftblockcolumn3 h1 {
+        font-size: 24px;
+    }
+    .column3 h3 {
+        margin-top: 75px
+    }
+    .leftblockcolumn3 {
+        width: 33%;
+    }
+    .friendactivate {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .friendactivate h1 {
+        width: 50%;
+    }
+    .leftcolumn41 {
+        display: none;
+    }
+    .leftcolumn42 {
+        display: block;
+    }
+    .rightcolumn4and1 {
+        display: none;
+    }
+    .rightcolumn4and12 {
+        margin-top: 60px;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+    .backgroundunion {
+        margin-top: 50px;
+        margin-left: -11%;
+    }
+    .laptop2 {
+        margin-left: 23px;
+    }
+    .blocktextimg {
+        margin-top: 50px;
+        margin-left: -60px;
+    }
+    .leftcolumn44 {
+        margin-left: -12px;
+    }
+    .forsvg {
+        margin-left: -167px;
+    }
+    .column5 {
+        height: 564px;
+    }
+    .twoblockcolumn4 {
+        margin-top: -70px;
+    }
+    .textincolumn5 h1 {
+        font-size: 24px;
+    }
+    .textincolumn5 h2 {
+        font-size: 18px;
+    }
+    .countdown-time {
+        font-size: 12px;
+    }
+    .imgpeoples {
+        display: none;
+    }
+    .raffleitems {
+        display: none;
+    }
+    .raffleitems1050 {
+        display: block;
+        margin-top: -25px;
+    }
+    .raffleitems2 {
+        display: none;
+    }
+    .rightcolumn7 {
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .leftcolumn4 {
+        margin-top: 0;
+        margin-left: 7%;
+    }
+    .laptop img {
+        margin-top: 100px;
+        margin-left: -16%;
+    }
+    .forsvg img {
+        margin-left: 24px;
+    }
+    .column7 {
+        display: grid;
+        margin-top: 120px;
+    }
+    #right3svg {
+        margin-top: 39px;
+        margin-left: -80px;
+    }
+    .raffleitems22 img {
+        max-width: 45%;
+    }
+    .textactivation {
+        width: 68%;
+    }
+    .rightcolumn7 h1{
+        width: 100%;
+    }
+    .givecarbuttton {
+        display: flex;
+        justify-content: center;
+    }
+    .giveinvitebutton {
+        display: block;
+    }
+    .givecarbuttton {
+        width: 100%;
+    }
+    .raffleitems22 {
+        display: flex;
+        justify-content: center;
+    }
+    .invite h1 {
+        width: 364px;
+    }
+    .invite {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .givemoney1, .givemoney2 {
+        display: grid;
+    }
+    .givemoney1 {
+        margin-top: -60px;
+    }
+    .redblock2 {
+        transform: rotate(3deg);
+    }
+    .text1 h1 {
+        margin-top: 0;
+    }
+    #redblockidh1 {
+        transform: rotate(2deg);
+    }
+    .car img {
+        width: 60%;
+    }
+
+    .car {
+        margin-top: 17%;
+    }
+    .text1 h2 {
+        margin-top: 21px;
+    }
+    .peoplesfone2 h1 {
+        margin-top: 42px;
+    }
+    .right3svg {
+        display: flex;
+    }
+    .threeblock11 {
+        padding: 30px;
+    }
+    .column4 {
+        margin-top: 76px;
+    }
+    .yackvzyati h1 {
+        padding: 0px 356px;
+    }
+    .textleftcolumn4 {
+        margin-left: 11%;
+    }
+    .leftcolumn45 {
+        margin-left: 0;
+    }
+    .giveinvitebutton :hover{
+        background: black;
+        color: white;
+        transform: matrix();
+        transition: 0.2s;
+    }
+
+    #right3svg2 {
+        display: none;
+    }
+
+    .cover1 img {
+        margin-left: 70px;
+    }
+
+
+    .cover2 img {
+        margin-left: 30px;
+    }
+
+
+    #right3svg3 {
+        margin-top: 70px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .fiveblockcolumn4 {
+        margin-top: 40px;
+    }
+
+    #img3svg3 {
+        margin-left: -35px;
+    }
+}
+
+
+@media (max-width: 941px) {
+    .friendactivate h1 {
+        width: 100%;
+    }
+
+    .yackvzyati h1 {
+        padding: 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
